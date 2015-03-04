@@ -1,4 +1,4 @@
-FROM marcelmaatkamp/docker-alpine-build-tor
+FROM marcelmaatkamp/docker-alpine-build-base
 
 EXPOSE 9001
 ENV VERSION 0.2.5.10
